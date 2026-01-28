@@ -39,6 +39,7 @@ support.test-encryptor4(ruhan-encryptor4)
 "--------Encryptor 5--------" 
 support.encryptor5("Ruhan")
 
+
 fun ruhan-encryptor5(s :: String) -> String:
   doc: "This function replaces every vowel in the string with the next alphabetical letter of that vowel"
-  
+end
